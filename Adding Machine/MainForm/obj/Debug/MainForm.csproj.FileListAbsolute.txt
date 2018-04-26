@@ -8,3 +8,13 @@ C:\Users\Cyberadmin\Desktop\Adding Machine\MainForm\obj\Debug\MainForm.csproj.Ge
 C:\Users\Cyberadmin\Desktop\Adding Machine\MainForm\obj\Debug\MainForm.csproj.CoreCompileInputs.cache
 C:\Users\Cyberadmin\Desktop\Adding Machine\MainForm\obj\Debug\MainForm.exe
 C:\Users\Cyberadmin\Desktop\Adding Machine\MainForm\obj\Debug\MainForm.pdb
+C:\Users\Cyberadmin\Desktop\Adding-Machine\Adding Machine\MainForm\bin\Debug\MainForm.exe.config
+C:\Users\Cyberadmin\Desktop\Adding-Machine\Adding Machine\MainForm\bin\Debug\MainForm.exe
+C:\Users\Cyberadmin\Desktop\Adding-Machine\Adding Machine\MainForm\bin\Debug\MainForm.pdb
+C:\Users\Cyberadmin\Desktop\Adding-Machine\Adding Machine\MainForm\obj\Debug\MainForm.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\Adding-Machine\Adding Machine\MainForm\obj\Debug\MainForm.frmMain.resources
+C:\Users\Cyberadmin\Desktop\Adding-Machine\Adding Machine\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+C:\Users\Cyberadmin\Desktop\Adding-Machine\Adding Machine\MainForm\obj\Debug\MainForm.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Desktop\Adding-Machine\Adding Machine\MainForm\obj\Debug\MainForm.csproj.CoreCompileInputs.cache
+C:\Users\Cyberadmin\Desktop\Adding-Machine\Adding Machine\MainForm\obj\Debug\MainForm.exe
+C:\Users\Cyberadmin\Desktop\Adding-Machine\Adding Machine\MainForm\obj\Debug\MainForm.pdb

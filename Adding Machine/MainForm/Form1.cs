@@ -174,8 +174,31 @@ namespace MainForm
         }
 
         private void btnFinalTotal_Click(object sender, EventArgs e)
-        {
+        {       //This is the code for the Final Total button. This is quite similar to the Running Total button.
+            try
+            {
+                if (lbFeed.Items.Count > 0)
+                {
+                    //The only difference is that the array is cleared when this button is hit, and the sum of it
+                    //all is displayed, and moved into the first element of the array. Think of the "=" button on
+                    //a calculator.
+                    double final = feedArray.Sum();
+                    Array.Clear(feedArray, 0, 50);
 
+                    lbFeed.Items.Add("Total: " + final.ToString());
+                    feedArray[0] = final;
+                }
+                else
+                {
+                    throw new Exception("You need to insert values before you can retreive a total.");
+                }
+                txtInput.Focus();
+                lbFeed.TopIndex = lbFeed.Items.Count - 1;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
     }
 }
